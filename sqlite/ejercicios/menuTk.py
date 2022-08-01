@@ -11,7 +11,7 @@ from tkinter import *
 
 # Configuración de la raíz
 root = Tk()
-root.title("Bar del - Menú")
+root.title("Bar La Plata- Menú")
 root.resizable(0,0)
 root.config(bd=25, relief="sunken")
 
